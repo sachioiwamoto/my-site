@@ -1,0 +1,124 @@
+body {
+  color: #40514E
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  color: #1FAB89;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+h2 {
+  color: #1FAB89;
+  font-size: 1.5rem;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: normal;
+  padding: 10px;
+}
+h3 {
+  color: #62D2A2;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+a {
+  color: #62D2A2;
+  text-decoration: none;
+}
+hr {
+  border-top: 6px dotted grey;
+  height: 0px;
+  width: 6%;
+  margin: 50px auto 50px auto;
+}
+.top-container {
+  background-color: #D7FBE8;
+  position: relative;
+  padding-top: 50px;
+}
+.intro {
+  width: 50%;
+  margin: auto;
+}
+.middle-container {
+  margin: 50px;
+}
+.bottom-container {
+  background-color: #62D2A2;
+  color: white;
+  position: relative;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+.architect {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 150px;
+  bottom: 200px;
+}
+.fuji-img {
+  margin-top: 50px;
+  width: 20%;
+}
+.skill-row {
+  width: 70%;
+  margin: 50px auto 50px auto;;
+  text-align: left;
+  line-height: 2;
+}
+.cloud-computing-img {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.beer-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me {
+  padding-bottom: 10px;
+}
+.contact-message {
+  width: 50%;
+  margin: 30px auto 40px auto;
+}
+.footer-link {
+  color: white;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.footer-link2 {
+  color: white;
+}
+.btn {
+  background: #27c49d;
+  background-image: -webkit-linear-gradient(top, #27c49d, #139977);
+  background-image: -moz-linear-gradient(top, #27c49d, #139977);
+  background-image: -ms-linear-gradient(top, #27c49d, #139977);
+  background-image: -o-linear-gradient(top, #27c49d, #139977);
+  background-image: linear-gradient(to bottom, #27c49d, #139977);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #4cebc3;
+  background-image: -webkit-linear-gradient(top, #4cebc3, #3fd4ac);
+  background-image: -moz-linear-gradient(top, #4cebc3, #3fd4ac);
+  background-image: -ms-linear-gradient(top, #4cebc3, #3fd4ac);
+  background-image: -o-linear-gradient(top, #4cebc3, #3fd4ac);
+  background-image: linear-gradient(to bottom, #4cebc3, #3fd4ac);
+  text-decoration: none;
+}
